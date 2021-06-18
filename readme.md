@@ -1,4 +1,4 @@
-Financial inclusion research project in Kenya, Uganda, Tanzania, and Rwanda
+# Financial inclusion research project in Kenya, Uganda, Tanzania, and Rwanda
 
 Individuals and enterprises with financial inclusion have access to useful and cheap financial products and services (transactions, payments, savings, credit, and insurance) offered in a responsible and sustainable manner.
 
